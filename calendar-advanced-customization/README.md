@@ -2,6 +2,8 @@
 
 This project demonstrates advanced customization of a JetEngine calendar listing in WordPress using JavaScript. It dynamically fetches and displays detailed post data in a popup when interacting with calendar events.
 
+See this project in https://www.tjmsp.jus.br/audiencias-e-sessoes-de-julgamento/
+
 ---
 
 ## Overview
