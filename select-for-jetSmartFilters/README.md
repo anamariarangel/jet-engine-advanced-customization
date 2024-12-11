@@ -1,10 +1,9 @@
-Aqui está o **README.md** atualizado e mais conciso para o uso com **JetSmartFilters**:
-
----
 
 # Dynamic Filters for JetSmartFilters
 
 This script dynamically updates the visibility of filter elements based on the user's selection in a dropdown menu created with **JetSmartFilters**. It allows for a clean and dynamic user experience by showing only the relevant filter fields.
+
+See this project at https://www.tjmsp.jus.br/governanca-institucional/gestao-administrativa-orcamentaria-e-financeira/licitacoes-e-contratos/ata-de-registro-de-precos/
 
 ## How It Works
 
